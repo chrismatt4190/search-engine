@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/search-engine/static/css/main.2e0f6b6e.css",
+    "main.js": "/search-engine/static/js/main.237dae16.js",
+    "static/media/LandingPageAsset.png": "/search-engine/static/media/LandingPageAsset.6ab54177c4019cf98bbf.png",
+    "index.html": "/search-engine/index.html",
+    "main.2e0f6b6e.css.map": "/search-engine/static/css/main.2e0f6b6e.css.map",
+    "main.237dae16.js.map": "/search-engine/static/js/main.237dae16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e0f6b6e.css",
+    "static/js/main.237dae16.js"
+  ]
+}
