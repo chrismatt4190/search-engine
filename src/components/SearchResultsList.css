@@ -1,0 +1,40 @@
+ .results-list{
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;    
+    max-height: 1000px;
+    overflow-y: scroll;
+   }
+
+   .result-card {
+      margin-bottom: 2rem;
+    }
+    
+    .product-item-name {
+      font-size: 1.3rem;
+      font-weight: bold;
+      margin-bottom: 0.3rem;
+    }
+    
+    .business-name,
+    .product-description,
+    .price,
+    .business-address,
+    .why-picked {
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+      color: #555;
+    }
+    
+    .description-label {
+      font-weight: bold;
+      color: #222;
+    }
+    
+    hr {
+      border: 0;
+      border-top: 1px solid #ccc;
+      margin-top: 1rem;
+    }
